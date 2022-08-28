@@ -1,0 +1,11 @@
+.main{
+    height: 50px;
+    width: 200px;
+    color: #111b21;
+}
+
+.profile{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
